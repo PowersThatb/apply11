@@ -1,2 +1,2 @@
-# powers.github.io
+# http://powers.github.io
 My Personal Website
