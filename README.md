@@ -1,2 +1,2 @@
-# https://powers.github.io
+# powers.github.io
 New Page
